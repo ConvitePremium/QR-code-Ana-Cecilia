@@ -5,7 +5,7 @@
 // ========================================================
 
 window.EVENTO_CONFIG = {
-  nome: "Pedro Nero",
+  nome: "Ana Cecília",
   idade: "1 aninho",
 
   moldura: {
